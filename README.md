@@ -76,6 +76,10 @@ Each assignment focuses on a specific topic — arrays, recursion, linked lists,
 - Graphs  
 - Dynamic Programming  
 - Greedy & Backtracking  
+- Breadth first search
+- depth first search
+- binary search
+- binary search tree
 
 ---
 
